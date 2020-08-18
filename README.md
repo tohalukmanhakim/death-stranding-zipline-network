@@ -1,3 +1,7 @@
+## Links
+
+[Forked zipline network](http://tohalukmanhakim.github.io/death-stranding-zipline-network/)
+
 ## Death Stranding Zipline Network Tool
 
 To view my zipline network [click here](http://smcnabb.github.io/death-stranding-zipline-network/).
